@@ -6,30 +6,8 @@ targets:
     therapeutics:
       - drug: Trastuzumab
         pdb_ids:
-          - 7pkl
-          - 6bhz
-          - 6bi0
-          - 5u5f
-          - 5u5m
-          - 5u3d
-          - 6bi2
-          - 4hjg
-          - 4hkz
-          - 4ioi
-          - 6b9y
           - 6b9z
-          - 6bae
-          - 6bah
-          - 5u6a
-          - 8pwh
-          - 8q6j
-          - 6oge
-          - 5xhf
-          - 5xhg
-          - 7mn8
-          - 8yry
-          - 6bgt
-
+          - 1n8z
   - name: Δ16HER2
     isoform_id: P04626-1
     type: deletion
@@ -37,54 +15,12 @@ targets:
     therapeutics:
       - drug: T-DM1
         pdb_ids:
-          - 7pkl
-          - 6bhz
-          - 6bi0
-          - 5u5f
-          - 5u5m
-          - 5u3d
-          - 6bi2
-          - 4hjg
-          - 4hkz
-          - 4ioi
-          - 6b9y
           - 6b9z
-          - 6bae
-          - 6bah
-          - 5u6a
-          - 8pwh
-          - 8q6j
-          - 6oge
-          - 5xhf
-          - 5xhg
-          - 7mn8
-          - 8yry
-          - 6bgt
+          - 1n8z
       - drug: Trastuzumab
         pdb_ids:
-          - 7pkl
-          - 6bhz
-          - 6bi0
-          - 5u5f
-          - 5u5m
-          - 5u3d
-          - 6bi2
-          - 4hjg
-          - 4hkz
-          - 4ioi
-          - 6b9y
           - 6b9z
-          - 6bae
-          - 6bah
-          - 5u6a
-          - 8pwh
-          - 8q6j
-          - 6oge
-          - 5xhf
-          - 5xhg
-          - 7mn8
-          - 8yry
-          - 6bgt
+          - 1n8z
 
   - name: K753E
     isoform_id: P04626-1
@@ -94,31 +30,9 @@ targets:
       - drug: Lapatinib
         pdb_ids: []
       - drug: Trastuzumab
-        pdb_ids:
-          - 7pkl
-          - 6bhz
-          - 6bi0
-          - 5u5f
-          - 5u5m
-          - 5u3d
-          - 6bi2
-          - 4hjg
-          - 4hkz
-          - 4ioi
-          - 6b9y
+        pdb_ids:          
           - 6b9z
-          - 6bae
-          - 6bah
-          - 5u6a
-          - 8pwh
-          - 8q6j
-          - 6oge
-          - 5xhf
-          - 5xhg
-          - 7mn8
-          - 8yry
-          - 6bgt
-
+          - 1n8z
   - name: L755S
     isoform_id: P04626-1
     type: point
@@ -126,29 +40,8 @@ targets:
     therapeutics:
       - drug: Trastuzumab
         pdb_ids:
-          - 7pkl
-          - 6bhz
-          - 6bi0
-          - 5u5f
-          - 5u5m
-          - 5u3d
-          - 6bi2
-          - 4hjg
-          - 4hkz
-          - 4ioi
-          - 6b9y
           - 6b9z
-          - 6bae
-          - 6bah
-          - 5u6a
-          - 8pwh
-          - 8q6j
-          - 6oge
-          - 5xhf
-          - 5xhg
-          - 7mn8
-          - 8yry
-          - 6bgt
+          - 1n8z
       - drug: Lapatinib
         pdb_ids: []
 
@@ -159,12 +52,4 @@ targets:
     therapeutics:
       - drug: Pertuzumab
         pdb_ids:
-          - 4llw
-          - 4lly
-          - 4llu
-          - 9l1s
-          - 8pwh
-          - 8q6j
-          - 5vsh
           - 1s78
-          - 6oge
